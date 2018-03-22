@@ -6,6 +6,8 @@
 
 - 장소 : 교수강의동 세미나실
 
+
+
 ## Python
 - [코딩도장](http://codingdojang.com/) 문제 풀어오기
 - 문제는 세미나가 끝난 후 'codingdojang' 폴더에 업로드 됨.
